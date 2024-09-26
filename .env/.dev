@@ -1,0 +1,15 @@
+NODE_ENV=dev
+
+PORT=3001
+HOST=localhost
+HOST_URL=http://localhost:3001
+
+
+#firebase config
+API_KEY=AIzaSyB9iJPRn-KlqSvw1WxURzG02TzxPD91JtI
+AUTH_DOMAIN=solo-422b3.firebaseapp.com
+PROJECT_ID=solo-422b3
+STORAGE_BUCKET=solo-422b3.appspot.com
+MESSAGING_SENDER_ID=409149214043
+APP_ID=1:409149214043:web:2ea63437d3f2d1c2c79e7e
+
